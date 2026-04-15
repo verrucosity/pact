@@ -1,0 +1,297 @@
+Faux's Demonic Pact League Guide
+3,300+ points, 181 tasks 
+Note: There is a video FULL walkthrough version of this guide on my Youtube channel at: https://youtu.be/Job-3WdjVIs, dropping a follow would be wildly appreciated <3
+
+My relics (You don't have to choose these to follow this guide): 
+Endless harvest, Woodsman, Evil eye, Butler's bell, Larcenist, Culling spree, Reload: Soul harvest, Minion
+Notes on the route: 
+
+The guide leans in favor of my relics, so if you're taking different tier 1s and 2s, just consider you might need to adjust slightly at some points. 
+The amount of items to buy is intentional, particularly early. Don't buy more than mentioned because the amount of coins you have in your inventory matters.
+
+
+
+-Open the Leagues Menu
+-Complete the Leagues Tutorial
+-Claim first relic (I'm going Endless Harvest) *turn off auto bank for now*
+-Turn off Run and back on
+-Pickpocket a Citizen (to level 5 Thieving)
+-Go inside house to the east, fill bucket at water pump
+-Run north, pet Renu
+-Bow emote near Renu
+-Travel with bird to anywhere
+-Home teleport (might put you in Yama's lair, leave to Varlamore again)
+-Run west, attack dummy to lv 8 attack 
+-Run to Bazaar (market), cry near a child
+-Thieve full inventory of Cakes (need 14+)
+-Run northwest to General store
+-Sell 1 CAKE AT A TIME for maximum GP (not 5, 10, or 50), need 260+ gp 
+-Buy 1 knife, 1 chisel, 1 spade, 2 bird snares
+-Run south to clothing shop, buy PINK SKIRT, Brown Apron, Red Cape (red cape is 2gp, others are 32gp)
+-Run straight south of general store to southern Varlamore wall. Kill rat w/ bow
+-Run east to altar, Salute next to Statue of Quoatlos (southern)
+-Run next to Altar, activate Thick skin
+-Run east, pet Xolo outside near Bird Bath
+-Drink from Bird Bath
+-Chop (or punch) 2 trees (Barb should get 15+ wc here)
+-Burn 1 log, fletch 1 log into arrow shafts 
+-Run to east bank, deposit all, withdraw coins, 
+-Enter Colosseum, run north and talk to gladiator
+-Exit, run north, talk to Port master (Sailing)
+-Run west and buy 10 buckets of sand, 10 soda ash, glassblowing pipe
+-Run south to furnace, make 10 molten glass, deposit at bank
+-Run back to charter, buy 10 more buckets of sand, 10 soda ash
+-Run to furnace, make 10 molten glass again, blow all glass into oil lanterns for 20 Crafting
+-Run to bank, deposit oil lanterns, withdraw Bucket of water (empty, keep bucket), air and mind runes, dramen staff -(equip), spade, pot
+-Run west to crafting shop, buy shears 
+-Run south of Varlamore from the bank
+-Pick 6 cabbage (drop)
+-Kill 1 chicken, pick up bone
+-Run just south of the cabbage field and sit emote by the cabbage (near dogs)
+-Run west, pick sweetcorn (drop)
+-Give Molossus bones (north/northwest of sweetcorn)
+-Run west, pick and eat 1 onion
+-Run west, pick 6 wheat (keep 1) (drop 5)
+-Make flour in the windmill to the west (can drop flour)
+-Run northwest to Ortus farm, pick 6 potatos (drop)
+-Buy rake from Harminia (farming patch), rake flower patch
+-Run north, milk Dairy Buffalo
+-Run west, shear 1 alpaca
+-Run southeast to fairy ring
+-Fairy ring to Zanaris
+-Kill cow, pick up cowhide, bury bones
+-Claim slayer task from Chaeldar
+-Fairy ring to Aldarin (CKQ)
+-Run south, speak to Vineyard Foreman (near big wine vats), ask if he needs help
+-Search the grape vineyards for 4 shimmering grape vines (Vineyard helper Runelite plugin if you're struggling)
+-Speak to Vineyard Foreman to turn in, destroy grape barel
+-Run east to bank, deposit all
+-Withdraw coins (need 25+ GP), chisel
+-Buy chisel in General store to the north if you forgot to buy earlier
+-Run to crafting shop (northeast of bank)
+-Money making: Buy uncut sapphires, cut, then sell (1 at a time is 7x GP, 5 at a time is ~5x GP)
+-Stay as long as you want, upgrade to Emeralds and Rubies when possible. I plan to stay for ~50k gp, and return -later at 8x rate
+-When done, buy 3 Sapphires, emeralds, rubies for later. Run east to charters
+-Buy 5 raw rabbit, tyras helm, bucket, tinderbox. 
+-Cook rabbit at range southwest, eat once you get a cooked. Buy more if you failed
+-Kill a seagull
+-Travel at Antonia to Sunset Coast (Don't charter)
+-Buy torch in General store, Light torch and drop torch/tinderbox
+-Fill bucket at sand pit (north), drop sand
+-Run to Fishing Shop (Southeast, look at map)
+-Buy 1,000 feathers, big net (we'll buy more later)
+-Charter to Civitas Illa Fortis
+-Buy 15 pineapples from charter, bank them
+-Run south to pond ("Park" on map)
+-Fish until casket, old boot, and house key (Can skip house key and come back later, 1/10 might take a while)
+-Run northwest to bar
+-Buy 1 cup of tea, 1 Moon-lite, 1 stew, 1 jug of wine. 
+-Drink Moon-lite, jug of wine
+-Run southwest, buy POH
+-Run southeast to mace shop, buy steel mace
+-Run to Civitas Bazaar, thieve from citizen 10 times without failing
+-Buy 1 silk from silk trader, sell it back
+-Run west near west bank. Give Oli a stew
+-Run to Quetzal (Renu), bird to Aubernvale (top left)
+-Drink cup of tea
+-Run south to bank, deposit steel mace, big net, tyras helm, bucket
+-Withdraw axe, knife, cowhide, wool
+-Run south to staff shop, buy Air and fire staff (equip)
+-Run west to Axe shop, buy Steel, Mith, and Adamant axe
+-Chop dead tree near river *EH toggle autobank on* (stay until 45 logs banked if endless harvest)
+-withdraw log from bank if EH
+-Make 1 plank at sawmill 
+-Run southwest, tan cowhide into regular leather
+-Buy needle and thread in gen store
+-Craft leather chaps
+-Admire beautiful logs just outside of gen store (east)
+-Step oin Ent trail (near maple trees to the south, wait for Ent to walk by)
+-Run south to nemus retreat
+-Claim Forestry kit from Forestry shop (southwest of nemus retreat near water)
+-Equip forestry kit to enable Forestry events while WCing (lot of forestry tasks)
+-Pick 6 flax
+-Spin ball of wool, 1 bowstring
+
+
+-Endless Harvesters/woodsman can do the following, others can skip for now if you want:
+-Fletch headless arrows until 20 fletching.
+-Chop oak to the south until 60 oak logs banked. Complete Burn 1 oak log, Fletch 1 oak shortbow, fletch 25 oak -stocks, decorate oak totem (5 oaks)
+-Chop willows until 100 burn task, then toggle Woodsman burn off and bank 56 willows: 1 willow shortbow, 50 willow longbows fletched, decorate willow totem (5 willows)
+-Finish 1000 arrow shafts with extra oaks or willows
+-Chop 50 Maple logs (burn 25, bank 25)
+-Fletch 25 Maple longbow (u)
+-Complete vale totem miniquest, bring 5 oak logs, 5 willow logs, 5 maple logs
+-Deposit all, withdraw coins, axe, 2 bird snares, green cape, steel mace
+
+-Run south to Rowboat, take boat to Tal Teklan
+-Run north to rune shop, buy 5 of each elemental rune pack, 5 mind rune pacts 5 cosmics, 75 natures 1 chaos pack, 1 death rune
+-Low alch anything for mage exp 
+-Run west, buy purple dye. Dye cape purple
+-Run west, dance near Bards on the dock
+-Run southeast to ranged shop, buy 10 iron arrows, shortbow
+-Run to bank, deposit 5 nature runes
+-Run east out of Tal teklan, kill frog near Doom dungeon shortcut (shoot 6+ iron arrows)
+-Cut any regular tree
+
+-(Can skip the next step if not woodsman, birds are painful non-woodsman tasks, but you'll have to skip later puro tasks too if you don't do these now)
+-Run north across bridge, then east to Crimson Swifts
+-Catch 8 Crimson swifts (16 if not woodsman)
+-Run west to bridge, cross to the south then run southwest to Tropical Wagtails
+-Catch 15 Tropical wagtails 
+
+-Take rowboat near Tal Teklan to Kastori
+-Run southwest to fishing shop
+-Buy small net, fishing rod, fly fishing rod, harpoon, lobster pot, 50 bait, fill inv with raw sardines
+-Cook sardines at range to the west (can buy more sardines if you didn't successfully cook 5)
+-Run southwest, fish shrimp until 10+ fishing (EH toggle off auto bank until several raw shrimp in inv, then back on, catch at least 1 if already lv 10) 
+-Bait fish for Herring until 15 (catch at least 1 if already lv 15)
+-Net fish until Anchovy (stay until 16 fishing)
+-Run northeast, cook shrimp 
+-Run northeast to Dungeon icon, climb ladder
+-Kill imp with earth spell, pick up ashes (save them)
+-Run north to Statue of Ates. Pet Caique (Bird on a rock)
+-Run north, observe the gemstone crab burrow. Get 20 attack on crab (steel mace), then train magic on defensive -until burrow (get at least 5 defence)
+-Take closest rowboat to Gloomthorn
+-Run east to Mons Gratia, kill icefiend (fire spells)
+-Run southeast to Quetzacalli gorge, kill 5 rabbits with mace, bury bones
+-Home teleport to Yama's lair, bury ashes
+-Hop 666 hoppy stones
+-Return to Civitas illa Fortis
+-Quetzal to Aldarin, run North to bank. Equip tyras helm
+-Deposit all, withdaw coins, chisel
+-Run north to POH portal, enter build mode
+-Build cheapest room
+-Cut rubies at Gem shop. Goal: 70 crafting (Can leave at 60, but extra gp buys you runes in a few steps) (~400k gp profit)
+-Take boat to Sunset coast
+-Run north to helmet shop, buy bronze, and addy full helms.
+-Run southeast to fishing shop
+-Buy raw fish to complete cooking tasks: 50 tuna, 100 swordfish
+-Run north to Cam Torum
+-Buy 1 vial of water pack, pestle and mortar, 1 eye of newt pack at herb shop
+-Buy Steel, mith, adamant, rune pickaxe from mining shop (buy steel/rune if barbarian, probably need to equip for task - no idea how this will work)
+-Get haircut in building to the east. There's no Pink Skirt type thing hidden in this guide, instead, model yourself after Faux (Samurai, Maroon color haircut)
+-Trim beard (clean shaven)
+-Run to rune shop, buy 50 law runes, 500 natures, 100 death runes (more if you made extra money from crafting), extra elemental runes if needed
+-Low alch runes or junk while completing tasks for mage xp
+-Run east to bank, deposit herblore supplies (keep an offensive mage spells, keep bronze, steel, mith, addy, rune pickaxe) 
+-Withdraw big net
+-Run to pub, buy 5 Jug of wine
+-League menu tele to Varlamore
+-Run west to blacksmith, buy addy platebody/legs, bronze platebody/legs, mithril spear, steel platebody, iron dagger
+-Equip steel platebody, full bronze, iron dagger, mith spear. 
+-Low alch steel platebody
+-Run south to bank, deposit addy, bronze, steel platebody, iron dagger. Withdraw 15 pineapples, bucket, chaos runes -(Wind Bolt is fine), big net (fill rest of inventory with jugs of wine, may only be ~3). Equip mith spear and keep it with you.
+-Run northwest to nearby dungeon icon, go downstairs and kill Guard
+-Go upstairs, run to western Civitas wall, then north to other dungeon icon
+-Go down ladder, run northwest, up ladder
+-Kill thief
+-Run south, milk buffalo
+-Run south, kill buffalo
+-Go into house east of allotments, churn butter
+-Pick up potato to the southwest, bake in previous house, add butter
+-Put 15 pineapples in compost bin, close lid
+-Pickpocket farmer until 3 potato seeds
+-Buy rake from Harminia
+-rake allotment patch, plant potatoes, buy 2 compost from farmer, protect potato patch
+-Run west, safespot dire wolf over plants
+-Run southwest, kill scorpion with mith spear
+-Mine 6+ tin ore, 1+ copper ore (stay until 15 mining)
+-Run southeast to Jaguars (east of Sunset coast), defeat without taking damage
+-Run southeast, kill a hill giant (Demonic pact point)
+-Run far east to Stonecutter outpost
+-Mine 1 clay, 50 iron, 20 silver, 2 coal, 3 gold, 50 mithril ore. Mine extra iron to get to level 55 for mithril 
+-Run east to coast, big net fish for 20 Mackerel, 10 Cod
+-Run northwest to Oryx (northwest of hunter icon). Kill with melee (melee probably only needs to be killing blow, -try maging until last hit to speed it up)
+-Run north to Civitas crafting shop, buy tiara mould, ring mould, amulet mould.
+-Go upstairs, check for soft clay (1 min respawn on table). Take if there, otherwise can take bucket of water and withdraw clay from bank.
+-Go downstairs, make anything on potters wheel, then fire at pottery oven
+-Withdraw 150 arrow shafts, 150 feathers. make 150 headless arrows (unless you made earlier)
+-Make at the furnace to the north: 1 Bronze bar, 15 Iron bars
+-Run northwest to anvil, smith 150 iron arrowtips
+-Run back to furnace, make 150 iron arrows on the way
+-Smelt 20 silver bars, make 20 silver tiaras 
+-Deposit all, withdraw coins, dramen staff, jugs of wine. Buy extra wine at bar for thieving training
+-Pickpocket Farmer south of varlamore to 36 thieving
+-Run southwest to fairy ring, tele to Zanaris
+-Buy Slayer staff (for Death's coffers task), anti dragon shield. Wear shield.
+
+-Enter Puro Puro in wheat field (skip if you didn't get 17+ hunter earlier, come back whenever you feel like, it's not a quick task if you're not woodsman)
+-Claim butterfly net from Elnock Inquisitor (can drop jugs of wine)
+-Catch 50 implings in puro puro (spawn camp 1 baby or young impling spawn)
+
+
+-Teleport to Aldarin (CKQ)
+-Run to Ruby harvests to the west, catch 1
+-Go upstairs in house northeast of ruby harvests
+lockpick chests until 2 gold bars and 40+ thieving. Run southwest to house if teleported outside. Keep uncut diamonds, gold bars, blessed bone shards, desirable seeds. Can drop anything else.
+-After 40 thieving/2 gold bars, league menu tele to Varlamore
+-Run southeast to bank, withdraw amulet mould, ring mould, cut sapphire, cut emerald. 
+-Make Sapphire amulet, emerald ring at furnace
+-Pickpocket Guards until 28 coin pouches (don't open until you get all)
+-Open 28 coin pouches at once
+-Run to southern varlamore gate
+-Pickpocket master farmer south of Varlamore
+-Run east, defeat 3 chickens in 6 seconds (melee). Don't miss ticks. You can mage the 3rd for a better chance at a high hit if you're low str. You can cheese this by getting several to low hp and running away, then engaging when all 3 are prepped.
+
+If you have the first magic pact, you can boost your level for the following 2 tasks by casting combat spells on any npcs. If you weren't planning on going magic early, DO NOT TAKE THIS PACT JUST FOR THIS PERK. You only get 3 pact tree resets and you need to kill your first Echo boss to earn your first reset. Be smart about what you choose.
+
+-Run to bank, withdraw death rune, cast earth blast if 53 magic 
+-Cast Civitas tele if 54 magic
+
+-Unlock Karamja if you haven't already
+
+-Open league menu, teleport to Karamja
+-Run to brimhaven agil arena. Complete 10 tickets
+-Leave arena, buy snapdragon from Jackie
+-Run to Karamja volcano, go to Tzhaar area
+-Safespot any Tzhaar (water spells)
+-Go upstairs, run to musa point
+-Pick 10 bananas
+-Ask luthas for a job
+-Fill crate with bananas
+-League menu tele to Karamja or charter back to brimhaven
+
+-Take cart to shilo
+-Run north across bridge, go upstairs to the east
+-Pay barkeep to sleep in Paramaya inn (may need to go upstairs to trigger task)
+-Take shortcut across river
+-Withdraw fly fishing rod, feathers
+-Fish 75 trout, 1+ salmon
+-Withdraw food, axe, small net, coins, slayer staff
+-Take cart to brimhaven
+-Kill snake near Fruit tree patch
+
+-Run south to brimhaven dungeon
+-Enter brimhaven dungeon
+-Kill black demon in Brimhaven dungeon (safespot)
+
+-Karamja tele on league menu
+-Run south to Tai bwo wannai
+-Buy machete from General store
+-Speak to Murcaily to begin tai bwo wannai cleanup (near hardwood grove)
+-Cut dense jungle until fully depleted
+-Run south, catch a karambwanji
+
+-Teleport to Varlamore with the league menu
+-Run west to death's office, sacrifice Slayer staff to death
+-Buy buckets at general store, fill up supercompost at farming patch to the west
+
+3,300+ points, 181 tasks.
+
+Whenever you get downtime, complete lobster, tuna, swordfish fishing tasks. They take longer than you'd expect, even with relics, but are worth good points
+
+From here I suggest working on the Karamja easy diary (use lamp in prayer to get near the level for bone shards), explore your new unlocked zones, and work towards demonic pact unlocks/overhead prayers. Hunter contracts and blessed bone mining are both good for the 43 prayer grind. You can also safespot blue dragons in the Dragon Nest and break down the bones for bone shards. 
+
+Focus on the strengths from your chosen relics when unsure what to do next. Good luck on your league grind, & wear your pink skirt proudly.
+
+
+
+
+
+
+Hunter contracts notes (early contract rush BEFORE unlocking Karamja)
+46-57 Any contracts (4-5 to 57)
+At 57, continue Gilman tasks until Snowy knight. Don't complete, instead move on to Cervus
+Continue Cervus tasks until Pyre fox, Don't complete, instead move to Ornus
+Continue Ornus Jerboa/Red chin tasks until 72
+Continue expert contracts until you feel like stopping (99 is quick with Woodsman)
