@@ -112,6 +112,8 @@ export default function LeagueCompanion({ guide }: Props) {
   const [customTitle, setCustomTitle] = useState("");
   const [customObjective, setCustomObjective] = useState("");
   const [customArea, setCustomArea] = useState("General");
+  const [catchupTarget, setCatchupTarget] = useState("140");
+  const [catchupOptionalMode, setCatchupOptionalMode] = useState<"done" | "skipped">("skipped");
   const [taskViewMode, setTaskViewMode] = useState<TaskViewMode>("focused");
   const [focusedCount, setFocusedCount] = useState(20);
 
@@ -424,6 +426,36 @@ export default function LeagueCompanion({ guide }: Props) {
       activeProfileId: profile.id,
       profiles: [...current.profiles, profile],
     }));
+  }
+
+  function applyCatchupCheckpoint() {
+    const parsedTarget = Number.parseInt(catchupTarget, 10);
+    if (!Number.isFinite(parsedTarget) || parsedTarget < 1) {
+      return;
+    }
+
+    updateProfile((profile) => {
+      const nextTaskState = { ...profile.taskState };
+
+      for (const task of guide.tasks) {
+        if (task.routeOrder >= parsedTarget) {
+          continue;
+        }
+
+        const existing = findTaskState(profile, task.id);
+        const nextStatus: TaskStatus = task.required ? "done" : catchupOptionalMode;
+
+        nextTaskState[task.id] = {
+          ...existing,
+          status: nextStatus,
+        };
+      }
+
+      return {
+        ...profile,
+        taskState: nextTaskState,
+      };
+    });
   }
 
   function duplicateProfile() {
@@ -826,6 +858,57 @@ export default function LeagueCompanion({ guide }: Props) {
               />
               <button onClick={addCustomTask} className="w-full rounded border border-amber-200/40 px-2 py-1 hover:bg-amber-100/15">
                 Add Task
+              </button>
+            </div>
+          </section>
+
+          <section className="rounded-xl border border-stone-100/20 bg-black/35 p-4">
+            <h2 className="font-mono text-lg text-amber-50">Catch-up Tools</h2>
+            <p className="mt-2 text-xs text-stone-300">
+              For players already ahead. This marks tasks before your checkpoint as complete so the planner starts near your current spot.
+            </p>
+
+            <div className="mt-3 space-y-2 text-sm">
+              <label className="block">
+                <span className="text-xs uppercase tracking-wider text-stone-300">Checkpoint task number</span>
+                <input
+                  value={catchupTarget}
+                  onChange={(event) => setCatchupTarget(event.target.value)}
+                  inputMode="numeric"
+                  placeholder="140"
+                  className="mt-1 w-full rounded border border-stone-300/20 bg-stone-900/70 px-2 py-1"
+                />
+              </label>
+
+              <label className="block">
+                <span className="text-xs uppercase tracking-wider text-stone-300">Optional tasks before checkpoint</span>
+                <select
+                  value={catchupOptionalMode}
+                  onChange={(event) => setCatchupOptionalMode(event.target.value as "done" | "skipped")}
+                  className="mt-1 w-full rounded border border-stone-300/20 bg-stone-900/70 px-2 py-1"
+                >
+                  <option value="skipped">Mark optional as skipped</option>
+                  <option value="done">Mark optional as done</option>
+                </select>
+              </label>
+
+              <div className="flex flex-wrap gap-2 text-xs">
+                {[80, 120, 140, 180].map((checkpoint) => (
+                  <button
+                    key={checkpoint}
+                    onClick={() => setCatchupTarget(String(checkpoint))}
+                    className="rounded border border-stone-300/20 px-2 py-1 hover:bg-stone-200/10"
+                  >
+                    #{checkpoint}
+                  </button>
+                ))}
+              </div>
+
+              <button
+                onClick={applyCatchupCheckpoint}
+                className="w-full rounded border border-lime-300/40 bg-lime-300/10 px-2 py-2 text-sm text-lime-100 hover:bg-lime-300/20"
+              >
+                Apply Checkpoint
               </button>
             </div>
           </section>
