@@ -288,19 +288,55 @@ function inferRequirements(task: RouteTask): Requirement[] {
 }
 
 function inferWhy(task: RouteTask): string {
-  if (task.tags.includes("money-making")) {
-    return "Funds early unlocks, runes, and planned shop purchases without stalling the route.";
+  const lower = task.instruction.toLowerCase();
+
+  const areaHint = task.area && !task.area.includes("Phase") ? ` (${task.area})` : "";
+
+  if (/(fletch|arrow shaft|headless arrows|longbow|shortbow|bowstring)/.test(lower)) {
+    return `Use a knife/chisel flow at a nearby bank${areaHint}: logs -> shafts/bows, shafts + feathers -> headless arrows.`;
   }
-  if (task.tags.includes("travel")) {
-    return "Improves route tempo by reducing movement downtime between objective clusters.";
+
+  if (/(pickpocket|thieve|coin pouch|master farmer|citizen|guard)/.test(lower)) {
+    return `Keep food in inventory${areaHint}, spam pickpocket until the target count, then clear pouches in one batch if asked.`;
   }
-  if (task.tags.includes("combat")) {
-    return "Secures combat-locked points and progression gates needed for later route flexibility.";
+
+  if (/(kill|defeat|safespot|dungeon|tzhaar|demon|wolf|scorpion|jaguar)/.test(lower)) {
+    return `Bring the stated weapon/spell${areaHint} and prioritize safespots or low-risk pulls when available.`;
   }
+
+  if (/(fish|bait fish|big net|shrimp|herring|anchovy|trout|salmon|cook)/.test(lower)) {
+    return `Use the correct tool/bait${areaHint} and bank in loops; for cook goals, buy extras to cover burn variance.`;
+  }
+
+  if (/(mine|smelt|anvil|smith|ore|pickaxe|bar)/.test(lower)) {
+    return `Equip the best pickaxe available${areaHint}, finish ore quotas first, then process bars/arrows in one smithing pass.`;
+  }
+
+  if (/(buy|shop|store|charter|rune shop|general store)/.test(lower)) {
+    return `Purchase exact quantities${areaHint}; this route is coin-sensitive early, so avoid overbuying unless explicitly told.`;
+  }
+
+  if (/(fairy ring|quetzal|teleport|rowboat|travel|run north|run south|run east|run west)/.test(lower)) {
+    return `Open the map and pre-plan the next hop${areaHint}; this step is mainly about keeping route tempo and reducing backtracking.`;
+  }
+
+  if (/(craft|glass|molten|gem|ruby|sapphire|emerald|potters wheel|pottery)/.test(lower)) {
+    return `Set up a bank-to-station loop${areaHint} and process materials in batches to minimize travel time.`;
+  }
+
+  if (/(farming|rake|plant|compost|allotment|potato|pineapple)/.test(lower)) {
+    return `Handle patch prep in order${areaHint}: rake -> compost -> plant -> protect, then move on without idle waiting.`;
+  }
+
+  if (/(hunter|bird snare|impling|butterfly net|wagtail|swift|contract)/.test(lower)) {
+    return `Place traps quickly and chain catches${areaHint}; if non-Woodsman, expect this to be slower and prioritize required counts.`;
+  }
+
   if (task.tags.includes("optional")) {
-    return "Optional branch objective that can be deferred if your build path differs from Faux assumptions.";
+    return "Optional branch step. Skip it if your relic/build path differs and continue on the next required route action.";
   }
-  return "Advances core route progression and maintains the intended task/point pacing.";
+
+  return `Use this as a direct checklist action${areaHint}: complete it once, then immediately move to the next route step.`;
 }
 
 function inferBranchLabel(task: RouteTask): string | undefined {

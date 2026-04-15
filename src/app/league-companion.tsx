@@ -599,7 +599,9 @@ export default function LeagueCompanion({ guide }: Props) {
         </div>
 
         <div className="mt-2 text-xs text-stone-300">
-          <p>{task.why}</p>
+          <p>
+            <span className="text-stone-200">Quick tip:</span> {task.why}
+          </p>
           {!available ? <p className="mt-1 text-rose-200">Blocked until dependencies are complete.</p> : null}
         </div>
 
